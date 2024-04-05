@@ -1,12 +1,4 @@
 
-  
-
-## Overview
-
-
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
-
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 
 
@@ -63,6 +55,13 @@ Navigate to the project directory and install the required Python packages:
 ```
 pip install -r requirements.txt
 ```
+
+## Overview of the Website
+
+
+[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
+
+[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 
 
