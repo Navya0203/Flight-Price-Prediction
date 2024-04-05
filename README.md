@@ -44,11 +44,11 @@ Also, make sure pip, the Python package installer, is up to date:
 pip install --upgrade pip
 ```
 
-###Installation
+### Installation
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/n/Project-Name.git
+git clone https://github.com/Navya0203/Flight-Price-Prediction.git
 ```
 
 Navigate to the project directory and install the required Python packages:
